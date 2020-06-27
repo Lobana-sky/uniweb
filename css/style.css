@@ -1594,7 +1594,7 @@ pre {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #495057;
+  color: #495057 !important;
   background-color: #fff;
   background-clip: padding-box;
   border: 1px solid #ced4da;
@@ -9328,7 +9328,7 @@ textarea.form-control {
   padding-left: 0;
   padding-right: 0;
   background: transparent !important;
-  color: rgba(255, 255, 255, 0.9) !important;
+  color: #000 !important;
   font-size: 16px;
   border-radius: 0px;
   -webkit-box-shadow: none !important;
